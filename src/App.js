@@ -3,7 +3,7 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello Welcome to My Profile</h1>
+      <h1>Learn web development</h1>
       <div>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, sit nisi
